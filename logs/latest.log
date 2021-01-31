@@ -1,0 +1,90 @@
+[10:40:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:40:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:40:05] [Worker-Main-3/INFO]: Loaded 7 recipes
+[10:40:07] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[10:40:07] [Server thread/INFO]: Loading properties
+[10:40:07] [Server thread/INFO]: This server is running Paper version git-Paper-428 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[10:40:07] [Server thread/INFO]: Debug logging is disabled
+[10:40:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:40:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:40:07] [Server thread/INFO]: Default game type: SURVIVAL
+[10:40:07] [Server thread/INFO]: Generating keypair
+[10:40:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:40:07] [Server thread/INFO]: Using default channel type
+[10:40:09] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:40:15] [Server thread/WARN]: Legacy plugin dynmap v3.1-beta6-438 does not specify an api-version.
+[10:40:15] [Server thread/INFO]: [dynmap] Loading dynmap v3.1-beta6-438
+[10:40:15] [Server thread/INFO]: [dynmap] version=git-Paper-428 (MC: 1.16.5)
+[10:40:15] [Server thread/INFO]: [dynmap] Mod Support API available
+[10:40:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:40:15] [Server thread/INFO]: Preparing level "world"
+[10:40:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:40:16] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[10:40:16] [Server thread/INFO]: Preparing spawn area: 0%
+[10:40:16] [Server thread/INFO]: Preparing spawn area: 0%
+[10:40:16] [Server thread/INFO]: Time elapsed: 572 ms
+[10:40:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:40:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[10:40:17] [Server thread/INFO]: Time elapsed: 384 ms
+[10:40:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:40:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[10:40:17] [Server thread/INFO]: Time elapsed: 363 ms
+[10:40:17] [Server thread/INFO]: [dynmap] Enabling dynmap v3.1-beta6-438*
+[10:40:18] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[10:40:18] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[10:40:18] [Server thread/ERROR]: [dynmap] Error reading plugins\dynmap\markers.yml
+[10:40:19] [Server thread/INFO]: [dynmap] Extracted files upgraded
+[10:40:19] [Server thread/WARN]: [dynmap] cwebp or dwebp not found, or cwebpPath or dwebpPath is invalid: webp format disabled
+[10:40:19] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[10:40:19] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[10:40:19] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[10:40:19] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[10:40:19] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[10:40:20] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[10:40:20] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[10:40:20] [Server thread/INFO]: [dynmap] version 3.1-beta6-438 is enabled - core version 3.1-beta6-438
+[10:40:20] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
+[10:40:20] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[10:40:20] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[10:40:20] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[10:40:20] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[10:40:20] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[10:40:20] [Server thread/INFO]: [dynmap] Enabled
+[10:40:20] [Server thread/INFO]: Running delayed init tasks
+[10:40:20] [Server thread/INFO]: Done (13.620s)! For help, type "help"
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_271
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[10:40:20] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[10:40:20] [Server thread/INFO]: Timings Reset
+[10:40:29] [Server thread/INFO]: Stopping the server
+[10:40:29] [Server thread/INFO]: Stopping server
+[10:40:29] [Server thread/INFO]: [dynmap] Disabling dynmap v3.1-beta6-438
+[10:40:29] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[10:40:29] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[10:40:30] [Server thread/INFO]: [dynmap] Disabled
+[10:40:30] [Server thread/INFO]: Saving players
+[10:40:30] [Server thread/INFO]: Saving worlds
+[10:40:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:40:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:40:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:40:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:40:37] [Server thread/INFO]: Flushing Chunk IO
+[10:40:37] [Server thread/INFO]: Closing Thread Pool
+[10:40:37] [Server thread/INFO]: Closing Server
